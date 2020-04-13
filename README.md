@@ -1,6 +1,6 @@
 # Unit1HW - 01 HTML CSS Git: Code Refactor
 
-# Some of the edits I made to this website are the following:
+## Some of the edits I made to this website are the following:
 
 -removed the header and footer class and used the native tags
 
